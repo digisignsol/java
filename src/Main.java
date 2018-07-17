@@ -34,7 +34,7 @@ public class Main extends Application {
         Scene s = new Scene(root, 800, 800, Color.WHITE);
 
         //final Canvas canvas = new Canvas(800, 800);
-         
+        // I changed this and am going to commit 
         
         imageK.setScaleX(0.45);
         imageK.setScaleY(0.45);
